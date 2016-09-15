@@ -1,7 +1,3 @@
-Program to simulate the operations of an E-Mart.
+Write a binary search tree class (called BST) that is a tree of C++ strings.  A binary search tree (BST), is a binary tree (two children) where for every node in the tree, all the values in the node's left subtree are less than the node's value and all the values in the node's right subtree are greater than the node's value.
 
-Two types of customers: Shoppers and Robbers
-
-Program read in a list of customers (name, shopper/robber, arrival time, number of items to buy/steal), (2) run the simulation.  Output will be generated while the simulation is running.
-
-Customers enters store at specified arrival time, spend time to shop for their items, get in line to pay/steal (robbers also wait in line to rob the store), spend some time paying or stealing money, and then leave the store.  When a customer performs an action (arrive in store, get in checkout line, start paying/stealing, finish paying/stealing), program will print a message documenting the customer's action and the current time.
+Write a main.cpp that instantiates a BST object and reads and executes commands from standard input.

@@ -1,0 +1,49 @@
+insert 10 10
+insert 10 20
+find 10
+insert 20 20
+find 20
+print
+insert 10 30
+insert 30 30
+insert 40 40
+insert 50 50
+print
+insert 30 40
+insert 40 50
+insert 50 60
+print
+find 50
+find 60
+insert 10 30
+insert 30 30
+insert 40 40
+insert 50 50
+insert 30 40
+insert 40 50
+insert 50 60
+insert 11 22
+print
+find 40
+find 50
+find 11
+delete 40 40
+delete 40 50
+print
+find 11
+delete 50 60
+delete 50 50
+print
+find 11
+delete 50 60
+delete 33 44
+delete 22 33
+print
+find 11
+find 22
+find 30
+delete 30 30
+print
+find 11
+delete 30 40
+print
